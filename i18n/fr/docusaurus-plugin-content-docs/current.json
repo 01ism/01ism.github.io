@@ -7,41 +7,65 @@
     "message": "guide",
     "description": "The label for category guide in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 快速开始": {
-    "message": "Rust 快速开始",
-    "description": "The label for category Rust 快速开始 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.💡 Rust 快速开始": {
+    "message": "💡 Rust 快速开始",
+    "description": "The label for category 💡 Rust 快速开始 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 快速开始.link.generated-index.description": {
+  "sidebar.tutorialSidebar.category.💡 Rust 快速开始.link.generated-index.description": {
     "message": "5 minutes to learn the most important Rust concepts.",
-    "description": "The generated-index page description for category Rust 快速开始 in sidebar tutorialSidebar"
+    "description": "The generated-index page description for category 💡 Rust 快速开始 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 入门实践": {
-    "message": "Rust 入门实践",
-    "description": "The label for category Rust 入门实践 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.💎 Rust 必知必会": {
+    "message": "💎 Rust 必知必会",
+    "description": "The label for category 💎 Rust 必知必会 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 入门实践.link.generated-index.description": {
+  "sidebar.tutorialSidebar.category.💎 Rust 必知必会.link.generated-index.description": {
     "message": "Rust 入门实践项目, 边学边练.",
-    "description": "The generated-index page description for category Rust 入门实践 in sidebar tutorialSidebar"
+    "description": "The generated-index page description for category 💎 Rust 必知必会 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 基础语法": {
-    "message": "Rust 基础语法",
-    "description": "The label for category Rust 基础语法 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.❗️扫盲": {
+    "message": "❗️扫盲",
+    "description": "The label for category ❗️扫盲 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 基础语法.link.generated-index.description": {
+  "sidebar.tutorialSidebar.category.❗️扫盲.link.generated-index.description": {
+    "message": "Rust 轻松时刻.",
+    "description": "The generated-index page description for category ❗️扫盲 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.📝 CodeSnippet": {
+    "message": "📝 CodeSnippet",
+    "description": "The label for category 📝 CodeSnippet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.📝 CodeSnippet.link.generated-index.description": {
+    "message": "Rust 入门实践项目, 边学边练.",
+    "description": "The generated-index page description for category 📝 CodeSnippet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.👷 Rust 入门实践": {
+    "message": "👷 Rust 入门实践",
+    "description": "The label for category 👷 Rust 入门实践 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.👷 Rust 入门实践.link.generated-index.description": {
+    "message": "Rust 入门实践项目, 边学边练.",
+    "description": "The generated-index page description for category 👷 Rust 入门实践 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.📗 Rust 基础语法": {
+    "message": "📗 Rust 基础语法",
+    "description": "The label for category 📗 Rust 基础语法 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.📗 Rust 基础语法.link.generated-index.description": {
     "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Rust 基础语法 in sidebar tutorialSidebar"
+    "description": "The generated-index page description for category 📗 Rust 基础语法 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 进阶语法": {
-    "message": "Rust 进阶语法",
-    "description": "The label for category Rust 进阶语法 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.📙 Rust 进阶语法": {
+    "message": "📙 Rust 进阶语法",
+    "description": "The label for category 📙 Rust 进阶语法 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 读书笔记": {
-    "message": "Rust 读书笔记",
-    "description": "The label for category Rust 读书笔记 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.📓 Rust 读书笔记": {
+    "message": "📓 Rust 读书笔记",
+    "description": "The label for category 📓 Rust 读书笔记 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 读书笔记.link.generated-index.description": {
+  "sidebar.tutorialSidebar.category.📓 Rust 读书笔记.link.generated-index.description": {
     "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Rust 读书笔记 in sidebar tutorialSidebar"
+    "description": "The generated-index page description for category 📓 Rust 读书笔记 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.参考资料": {
     "message": "参考资料",
@@ -51,85 +75,133 @@
     "message": "参考资料/文献.",
     "description": "The generated-index page description for category 参考资料 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.annotated": {
-    "message": "annotated",
-    "description": "The label for category annotated in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.tao": {
+    "message": "tao",
+    "description": "The label for category tao in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 标准库": {
-    "message": "Rust 标准库",
-    "description": "The label for category Rust 标准库 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.💖 儒": {
+    "message": "💖 儒",
+    "description": "The label for category 💖 儒 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 标准库.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Rust concepts.",
-    "description": "The generated-index page description for category Rust 标准库 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.💖 儒.link.generated-index.description": {
+    "message": "儒学",
+    "description": "The generated-index page description for category 💖 儒 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 热门项目": {
-    "message": "Rust 热门项目",
-    "description": "The label for category Rust 热门项目 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.卍 佛": {
+    "message": "卍 佛",
+    "description": "The label for category 卍 佛 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rust 热门项目.link.generated-index.description": {
-    "message": "Rust hot - 社区热门项目源码分析.",
-    "description": "The generated-index page description for category Rust 热门项目 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.卍 佛.link.generated-index.description": {
+    "message": "佛学",
+    "description": "The generated-index page description for category 卍 佛 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.❗️xx": {
+    "message": "❗️xx",
+    "description": "The label for category ❗️xx in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.❗️xx.link.generated-index.description": {
+    "message": "xxx.",
+    "description": "The generated-index page description for category ❗️xx in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.☯️ 道": {
+    "message": "☯️ 道",
+    "description": "The label for category ☯️ 道 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.☯️ 道.link.generated-index.description": {
+    "message": "道家",
+    "description": "The generated-index page description for category ☯️ 道 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.law": {
+    "message": "law",
+    "description": "The label for category law in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.skill": {
+    "message": "skill",
+    "description": "The label for category skill in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.☯️ 命理学": {
+    "message": "☯️ 命理学",
+    "description": "The label for category ☯️ 命理学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.☯️ 命理学.link.generated-index.description": {
+    "message": "命理学: 占卜",
+    "description": "The generated-index page description for category ☯️ 命理学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.✨ 占星术": {
+    "message": "✨ 占星术",
+    "description": "The label for category ✨ 占星术 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.✨ 占星术.link.generated-index.description": {
+    "message": "占星术: 占卜",
+    "description": "The generated-index page description for category ✨ 占星术 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.tool": {
+    "message": "tool",
+    "description": "The label for category tool in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.ecosystem": {
     "message": "ecosystem",
     "description": "The label for category ecosystem in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.core-libs": {
-    "message": "core-libs",
-    "description": "The label for category core-libs in sidebar tutorialSidebar"
+  "sidebar.guide.category.💡 Rust 快速开始": {
+    "message": "💡 Rust 快速开始",
+    "description": "The label for category 💡 Rust 快速开始 in sidebar guide"
   },
-  "sidebar.tutorialSidebar.category.web": {
-    "message": "web",
-    "description": "The label for category web in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.i18n": {
-    "message": "i18n",
-    "description": "The label for category i18n in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.zh-CN": {
-    "message": "zh-CN",
-    "description": "The label for category zh-CN in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.docs": {
-    "message": "docs",
-    "description": "The label for category docs in sidebar tutorialSidebar"
-  },
-  "sidebar.guide.category.Rust 快速开始": {
-    "message": "Rust 快速开始",
-    "description": "The label for category Rust 快速开始 in sidebar guide"
-  },
-  "sidebar.guide.category.Rust 快速开始.link.generated-index.description": {
+  "sidebar.guide.category.💡 Rust 快速开始.link.generated-index.description": {
     "message": "5 minutes to learn the most important Rust concepts.",
-    "description": "The generated-index page description for category Rust 快速开始 in sidebar guide"
+    "description": "The generated-index page description for category 💡 Rust 快速开始 in sidebar guide"
   },
-  "sidebar.guide.category.Rust 入门实践": {
-    "message": "Rust 入门实践",
-    "description": "The label for category Rust 入门实践 in sidebar guide"
+  "sidebar.guide.category.💎 Rust 必知必会": {
+    "message": "💎 Rust 必知必会",
+    "description": "The label for category 💎 Rust 必知必会 in sidebar guide"
   },
-  "sidebar.guide.category.Rust 入门实践.link.generated-index.description": {
+  "sidebar.guide.category.💎 Rust 必知必会.link.generated-index.description": {
     "message": "Rust 入门实践项目, 边学边练.",
-    "description": "The generated-index page description for category Rust 入门实践 in sidebar guide"
+    "description": "The generated-index page description for category 💎 Rust 必知必会 in sidebar guide"
   },
-  "sidebar.guide.category.Rust 基础语法": {
-    "message": "Rust 基础语法",
-    "description": "The label for category Rust 基础语法 in sidebar guide"
+  "sidebar.guide.category.❗️扫盲": {
+    "message": "❗️扫盲",
+    "description": "The label for category ❗️扫盲 in sidebar guide"
   },
-  "sidebar.guide.category.Rust 基础语法.link.generated-index.description": {
+  "sidebar.guide.category.❗️扫盲.link.generated-index.description": {
+    "message": "Rust 轻松时刻.",
+    "description": "The generated-index page description for category ❗️扫盲 in sidebar guide"
+  },
+  "sidebar.guide.category.📝 CodeSnippet": {
+    "message": "📝 CodeSnippet",
+    "description": "The label for category 📝 CodeSnippet in sidebar guide"
+  },
+  "sidebar.guide.category.📝 CodeSnippet.link.generated-index.description": {
+    "message": "Rust 入门实践项目, 边学边练.",
+    "description": "The generated-index page description for category 📝 CodeSnippet in sidebar guide"
+  },
+  "sidebar.guide.category.👷 Rust 入门实践": {
+    "message": "👷 Rust 入门实践",
+    "description": "The label for category 👷 Rust 入门实践 in sidebar guide"
+  },
+  "sidebar.guide.category.👷 Rust 入门实践.link.generated-index.description": {
+    "message": "Rust 入门实践项目, 边学边练.",
+    "description": "The generated-index page description for category 👷 Rust 入门实践 in sidebar guide"
+  },
+  "sidebar.guide.category.📗 Rust 基础语法": {
+    "message": "📗 Rust 基础语法",
+    "description": "The label for category 📗 Rust 基础语法 in sidebar guide"
+  },
+  "sidebar.guide.category.📗 Rust 基础语法.link.generated-index.description": {
     "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Rust 基础语法 in sidebar guide"
+    "description": "The generated-index page description for category 📗 Rust 基础语法 in sidebar guide"
   },
-  "sidebar.guide.category.Rust 进阶语法": {
-    "message": "Rust 进阶语法",
-    "description": "The label for category Rust 进阶语法 in sidebar guide"
+  "sidebar.guide.category.📙 Rust 进阶语法": {
+    "message": "📙 Rust 进阶语法",
+    "description": "The label for category 📙 Rust 进阶语法 in sidebar guide"
   },
-  "sidebar.guide.category.Rust 读书笔记": {
-    "message": "Rust 读书笔记",
-    "description": "The label for category Rust 读书笔记 in sidebar guide"
+  "sidebar.guide.category.📓 Rust 读书笔记": {
+    "message": "📓 Rust 读书笔记",
+    "description": "The label for category 📓 Rust 读书笔记 in sidebar guide"
   },
-  "sidebar.guide.category.Rust 读书笔记.link.generated-index.description": {
+  "sidebar.guide.category.📓 Rust 读书笔记.link.generated-index.description": {
     "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Rust 读书笔记 in sidebar guide"
+    "description": "The generated-index page description for category 📓 Rust 读书笔记 in sidebar guide"
   },
   "sidebar.guide.category.参考资料": {
     "message": "参考资料",
@@ -139,28 +211,76 @@
     "message": "参考资料/文献.",
     "description": "The generated-index page description for category 参考资料 in sidebar guide"
   },
-  "sidebar.annotated.category.Rust 标准库": {
-    "message": "Rust 标准库",
-    "description": "The label for category Rust 标准库 in sidebar annotated"
+  "sidebar.tao.category.💖 儒": {
+    "message": "💖 儒",
+    "description": "The label for category 💖 儒 in sidebar tao"
   },
-  "sidebar.annotated.category.Rust 标准库.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Rust concepts.",
-    "description": "The generated-index page description for category Rust 标准库 in sidebar annotated"
+  "sidebar.tao.category.💖 儒.link.generated-index.description": {
+    "message": "儒学",
+    "description": "The generated-index page description for category 💖 儒 in sidebar tao"
   },
-  "sidebar.annotated.category.Rust 热门项目": {
-    "message": "Rust 热门项目",
-    "description": "The label for category Rust 热门项目 in sidebar annotated"
+  "sidebar.tao.category.卍 佛": {
+    "message": "卍 佛",
+    "description": "The label for category 卍 佛 in sidebar tao"
   },
-  "sidebar.annotated.category.Rust 热门项目.link.generated-index.description": {
-    "message": "Rust hot - 社区热门项目源码分析.",
-    "description": "The generated-index page description for category Rust 热门项目 in sidebar annotated"
+  "sidebar.tao.category.卍 佛.link.generated-index.description": {
+    "message": "佛学",
+    "description": "The generated-index page description for category 卍 佛 in sidebar tao"
   },
-  "sidebar.ecosystem.category.core-libs": {
-    "message": "core-libs",
-    "description": "The label for category core-libs in sidebar ecosystem"
+  "sidebar.tao.category.❗️xx": {
+    "message": "❗️xx",
+    "description": "The label for category ❗️xx in sidebar tao"
   },
-  "sidebar.ecosystem.category.web": {
-    "message": "web",
-    "description": "The label for category web in sidebar ecosystem"
+  "sidebar.tao.category.❗️xx.link.generated-index.description": {
+    "message": "xxx.",
+    "description": "The generated-index page description for category ❗️xx in sidebar tao"
+  },
+  "sidebar.tao.category.☯️ 道": {
+    "message": "☯️ 道",
+    "description": "The label for category ☯️ 道 in sidebar tao"
+  },
+  "sidebar.tao.category.☯️ 道.link.generated-index.description": {
+    "message": "道家",
+    "description": "The generated-index page description for category ☯️ 道 in sidebar tao"
+  },
+  "sidebar.law.category.💖 儒": {
+    "message": "💖 儒",
+    "description": "The label for category 💖 儒 in sidebar law"
+  },
+  "sidebar.law.category.💖 儒.link.generated-index.description": {
+    "message": "儒学",
+    "description": "The generated-index page description for category 💖 儒 in sidebar law"
+  },
+  "sidebar.skill.category.☯️ 命理学": {
+    "message": "☯️ 命理学",
+    "description": "The label for category ☯️ 命理学 in sidebar skill"
+  },
+  "sidebar.skill.category.☯️ 命理学.link.generated-index.description": {
+    "message": "命理学: 占卜",
+    "description": "The generated-index page description for category ☯️ 命理学 in sidebar skill"
+  },
+  "sidebar.skill.category.✨ 占星术": {
+    "message": "✨ 占星术",
+    "description": "The label for category ✨ 占星术 in sidebar skill"
+  },
+  "sidebar.skill.category.✨ 占星术.link.generated-index.description": {
+    "message": "占星术: 占卜",
+    "description": "The generated-index page description for category ✨ 占星术 in sidebar skill"
+  },
+  "sidebar.tool.category.💖 儒": {
+    "message": "💖 儒",
+    "description": "The label for category 💖 儒 in sidebar tool"
+  },
+  "sidebar.tool.category.💖 儒.link.generated-index.description": {
+    "message": "儒学",
+    "description": "The generated-index page description for category 💖 儒 in sidebar tool"
+  },
+  "sidebar.ecosystem.category.💖 儒": {
+    "message": "💖 儒",
+    "description": "The label for category 💖 儒 in sidebar ecosystem"
+  },
+  "sidebar.ecosystem.category.💖 儒.link.generated-index.description": {
+    "message": "儒学",
+    "description": "The generated-index page description for category 💖 儒 in sidebar ecosystem"
   }
 }

@@ -58,6 +58,10 @@ tasks:
     cmds:
       - rm -rf node_modules
 
+  build:
+    cmds:
+      - yarn build
+
   deploy:
     cmds:
       - DEPLOYMENT_BRANCH=gh-pages USE_SSH=true yarn deploy

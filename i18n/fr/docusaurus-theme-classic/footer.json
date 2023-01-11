@@ -13,7 +13,7 @@
   },
   "link.item.label.Tutorial": {
     "message": "Tutorial",
-    "description": "The label of footer link with label=Tutorial linking to docs/guide/intro"
+    "description": "The label of footer link with label=Tutorial linking to docs/tao/intro"
   },
   "link.item.label.Ecosystem": {
     "message": "Ecosystem",
@@ -25,7 +25,7 @@
   },
   "link.item.label.Discord": {
     "message": "Discord",
-    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/MnDA9pfWAW"
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/WF6mmvXKcb"
   },
   "link.item.label.Twitter": {
     "message": "Twitter",
@@ -37,10 +37,10 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/better-rs"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/01ism"
   },
   "copyright": {
-    "message": "Copyright © 2022 better-rs. Built with Docusaurus.",
+    "message": "Copyright © 2023 01ism. Built with Docusaurus.",
     "description": "The footer copyright"
   }
 }

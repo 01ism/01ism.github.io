@@ -6,12 +6,7 @@ sidebar_position: 0
 
 ## 阅读顺序: {#way}
 
-- ✅ [xxx](intro/) 
-  - ✅ [xxx](core/intro): xxx
-    - ✅ [xxx](tips/intro/rule): xxx
-      - ✅ [xxx](praticse/intro/): xx
-        - ✅ [xxx](pro/intro): xxx
-
+-
   
 ## 开始之前 {#before-start}
 

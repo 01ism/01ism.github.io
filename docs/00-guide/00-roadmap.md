@@ -6,12 +6,7 @@ sidebar_position: 0
 
 ## 阅读顺序: {#way}
 
-- ✅ [Rust 快速开始](intro/) 
-  - ✅ [Rust 基础语法](core/intro): 先掌握语法
-    - ✅ [Rust 必知必会](tips/intro/rule): rust 踩坑
-      - ✅ [Rust 入门实践](praticse/intro/): 边学边练
-        - ✅ [Rust 高级语法](pro/intro): rust 复杂语法特性
-
+- 
   
 ## 开始之前 {#before-start}
 

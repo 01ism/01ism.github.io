@@ -177,7 +177,7 @@ const config = {
                         items: [
                             {
                                 label: "Tutorial",
-                                to: "docs/guide/intro",
+                                to: "docs/tao/index",
                             },
                             {
                                 label: "Ecosystem",
@@ -188,10 +188,6 @@ const config = {
                     {
                         title: "Community",
                         items: [
-                            {
-                                label: "Stack Overflow",
-                                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-                            },
                             {
                                 label: "Discord",
                                 href: "https://discord.gg/WF6mmvXKcb",

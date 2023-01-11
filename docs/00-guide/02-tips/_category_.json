@@ -1,0 +1,9 @@
+{
+  "label": "💎 Rust 必知必会",
+  "position": 2,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Rust 入门实践项目, 边学边练."
+  }
+}
